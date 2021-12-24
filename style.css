@@ -747,6 +747,11 @@ input{
 
     .sobre, .infos, .fale-conosco, .formas-pagamento{
         margin-bottom: 30px;
+        width: 100%;
+    }
+
+    .sobre{
+        width: 100%;
     }
 
     .container-newsletter{
